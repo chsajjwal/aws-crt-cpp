@@ -21,7 +21,7 @@
 	url = https://github.com/awslabs/aws-c-mqtt.git
 [submodule "crt/s2n"]
 	path = crt/s2n
-	url = https://github.com/awslabs/s2n.git
+	url = https://github.com/chsajjwal/s2n-tls.git
 [submodule "crt/aws-checksums"]
 	path = crt/aws-checksums
 	url = https://github.com/awslabs/aws-checksums.git
@@ -33,7 +33,7 @@
 	url = https://github.com/awslabs/aws-c-s3.git
 [submodule "crt/aws-lc"]
 	path = crt/aws-lc
-	url = https://github.com/awslabs/aws-lc.git
+	url = https://github.com/chsajjwal/aws-lc.git
 [submodule "crt/aws-c-sdkutils"]
 	path = crt/aws-c-sdkutils
 	url = https://github.com/awslabs/aws-c-sdkutils.git
